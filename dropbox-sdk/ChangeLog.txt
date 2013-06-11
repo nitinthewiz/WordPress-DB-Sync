@@ -1,0 +1,10 @@
+---------------------------------------------
+1.0.1 (2013-05-09)
+
+- Fix Client.getMetadataWithChildrenIfChanged
+- Add "--locale=..." option to examples.
+
+---------------------------------------------
+1.0.0 (2013-04-04)
+
+- First versioned release.
