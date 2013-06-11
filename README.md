@@ -7,6 +7,7 @@ Right now, if you add it to your WP installation, it'll convert the your posts (
 to .md files and save to a local folder.
 
 Next steps - 
+
 1. oAuth with Dropbox (which I know nothing about)
 
 2. Save to Dropbox instead of locally and sync in case the files already exist. Hopefully DB SDK 
