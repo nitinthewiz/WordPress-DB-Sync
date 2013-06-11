@@ -20,4 +20,5 @@ Good thing I'm interested in learning.
 come in handy.
 
 Stretch Goals - 
+
 1. Sync all posts, pages, other types of files.
